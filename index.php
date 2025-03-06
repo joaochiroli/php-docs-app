@@ -1,3 +1,3 @@
 <?php
-echo "<b>[IAE] Hi, my website on Azure App Service is running!</b>";
+echo "<b>[IAE] Hi, my DEV DEV DEV website on Azure App Service is running!</b>";
 ?>
